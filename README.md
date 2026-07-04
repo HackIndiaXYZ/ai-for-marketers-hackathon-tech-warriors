@@ -99,6 +99,23 @@ Designed with **Next.js 15**, **Firebase**, **Gemini AI**, and **TypeScript**, M
 🌍 Cloud Ready
 
 ---
+## 🌐 Project Links
+
+| 🔗 Resource | 📌 Link |
+|------------|----------|
+| 🌍 **Live Website** | https://multimax-ai-growth-studio.vercel.app/ |
+| 📖 **Medium Article** | https://medium.com/@rajasaranyaraj20/introducing-multimax-ai-growth-studio-the-future-of-ai-powered-business-growth-420f8c4d64ae?sharedUserId=rajasaranyaraj20 |
+| 🎥 **YouTube Demo** | https://youtu.be/ye_i-oA8IGI?si=f2qbwRgsuwqB98sM |
+| 💻 **GitHub Repository** | https://github.com/HackIndiaXYZ/ai-for-marketers-hackathon-tech-warriors |
+
+⭐ **If you like this project, don't forget to star the repository and share your feedback!**
+
+
+
+
+
+
+---
 
 # 📸 Preview
 
@@ -265,7 +282,6 @@ Open
 http://localhost:3000
 ```
 
----
 
 # 🔥 Demo Mode
 
