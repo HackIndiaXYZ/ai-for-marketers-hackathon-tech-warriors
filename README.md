@@ -102,7 +102,12 @@ Designed with **Next.js 15**, **Firebase**, **Gemini AI**, and **TypeScript**, M
 
 # 📸 Preview
 
-> Replace these images with actual screenshots after deployment.
+<img width="1888" height="854" alt="5" src="https://github.com/user-attachments/assets/865c66d5-61de-47f8-b978-4297d8e4df71" />
+<img width="1902" height="859" alt="3" src="https://github.com/user-attachments/assets/694d9679-3f48-4779-80e3-a4e8bb7d707e" />
+<img width="1897" height="839" alt="4" src="https://github.com/user-attachments/assets/09a54898-0df2-4565-8a4a-718b53126b25" />
+<img width="1908" height="848" alt="2" src="https://github.com/user-attachments/assets/4b2a9a5b-01f1-47d6-bcc0-611bbc232a91" />
+<img width="1916" height="860" alt="1" src="https://github.com/user-attachments/assets/9339f286-0188-4f8a-802b-844aa8dbc345" />
+
 
 
 
