@@ -198,7 +198,7 @@ MultiMax AI Growth Studio
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/multimax-ai-growth-studio.git
+git clone  https://github.com/HackIndiaXYZ/ai-for-marketers-hackathon-tech-warriors.git
 ```
 
 ```bash
@@ -523,7 +523,7 @@ We welcome contributions from the community!
 
 # Clone your fork
 
-git clone https://github.com/YOUR_USERNAME/multimax-ai-growth-studio.git
+git clone https://github.com/HackIndiaXYZ/ai-for-marketers-hackathon-tech-warriors.git
 
 # Create a new branch
 
