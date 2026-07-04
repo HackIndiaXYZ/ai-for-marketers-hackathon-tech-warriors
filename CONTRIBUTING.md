@@ -46,8 +46,7 @@ Click the **Fork** button at the top-right of the GitHub page.
 ### 2️⃣ Clone Your Fork
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/multimax-ai-growth-studio.git
-```
+git clone https://github.com/HackIndiaXYZ/ai-for-marketers-hackathon-tech-warriors.git```
 
 ---
 
